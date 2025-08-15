@@ -1,16 +1,16 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "hello",
-  "title": "Hello World",
-  "description": "Sample extension for Raycast",
+  "name": "hcmail-in-raycast",
+  "title": "HackClub Mail In Raycast",
+  "description": "HCmail in RayCast is a RayCast extension that allows you to search though your HackClub mails. It displays current status of your mail, and helps you manage your mails.",
   "icon": "extension-icon.png",
   "author": "samliu",
   "license": "MIT",
   "commands": [
     {
-      "name": "hello",
-      "title": "hello",
-      "description": "Say hello. This is a sample command!",
+      "name": "mail",
+      "title": "My mail",
+      "description": "Get the incoming HackClub mails, status of mails, and some other info.",
       "mode": "view"
     }
   ],
