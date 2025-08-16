@@ -12,6 +12,12 @@
       "title": "My mail",
       "description": "Get the incoming HackClub mails, status of mails, and some other info.",
       "mode": "view"
+    },
+    {
+      "name": "setkey",
+      "title": "Set Api Key",
+      "description": "Set up  HackClub Mail api key, to allow interaction with HackClub mail.",
+      "mode": "view"
     }
   ],
   "dependencies": {
